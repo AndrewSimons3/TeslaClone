@@ -49,12 +49,6 @@ const Header = () => {
 				<li>
 					<a href=''>Existing Inventory</a>
 				</li>
-				<li>
-					<a href=''>Existing Inventory</a>
-				</li>
-				<li>
-					<a href=''>Existing Inventory</a>
-				</li>
 			</BurgerNav>
 		</Container>
 	);
